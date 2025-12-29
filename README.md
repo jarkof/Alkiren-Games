@@ -45,5 +45,3 @@ public void AddExperience(int amount)
 For bug reports, feature requests, or documentation questions:
 
 **Email:** [alkiren44@gmail.com](mailto:alkiren44@gmail.com)
-
-[View Project on GitHub](https://www.google.com/search?q=https://github.com/jarkof/Alkiren-Games)
