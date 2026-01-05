@@ -15,7 +15,7 @@ Stop putting leveling logic inside your `Update()` loop. The LevelUp Engine prov
 * ✅ **Strategy Pattern:** Swap leveling math (Linear, Exponential, MMO) instantly via Inspector.
 * ✅ **Event-Driven:** UI updates automatically without polling.
 * ✅ **Scalable:** Built for projects that plan to grow.
-* 
+
 ## Code Preview
 ```csharp
 // Clean, readable API designed for Senior Engineers
